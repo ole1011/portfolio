@@ -8,7 +8,7 @@ Welcome to a showcase of my professional journey as a software developer, where 
 
 ## 🚀 Current Role
 
-### Cytooxien - Software Developer
+### Cytooxien
 > *One of the largest German Minecraft servers.*
 
 - **Role:** Software Developer
