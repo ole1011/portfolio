@@ -9,6 +9,9 @@ hero:
   actions:
     - theme: brand
       text: Projects
+      link: /projects
+    - theme: brand
+      text: Work
       link: /work
     - theme: alt
       text: Contact
