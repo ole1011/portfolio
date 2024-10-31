@@ -11,7 +11,7 @@ Explore a selection of my projects, each showcasing unique solutions and innovat
 
 ## 🌍 i18n (Internationalization Library)
 
-**GitHub:** Private (Not yet open source)
+**GitHub:** [Chained Together](https://github.com/ole1011/i18n)
 
 A small internationalization (i18n) library tailored for Minecraft plugins, particularly on the Paper platform, simplifying translation management for better player experiences.
 
