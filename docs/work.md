@@ -17,7 +17,7 @@ Welcome to a showcase of my professional journey as a software developer, where 
 ## 💼 Past Experience
 
 ### TurnipTales
-> *German Minecraft Roleplay Server*
+> *German Minecraft roleplay server*
 
 - **Role:** Software Developer
 - **Duration:** January 2024 - September 2024
@@ -26,7 +26,7 @@ Welcome to a showcase of my professional journey as a software developer, where 
 ---
 
 ### StayMC
-> *German Minecraft Minigame Network*
+> *German Minecraft minigame network*
 
 - **Role:** Game Developer
 - **Duration:** April 2023 - June 2024
@@ -35,7 +35,7 @@ Welcome to a showcase of my professional journey as a software developer, where 
 ---
 
 ### New Nanca
-> *German Minecraft Roleplay Server*
+> *German Minecraft roleplay server*
 
 - **Role:** Founder & Lead Developer
 - **Duration:** January 2021 - December 2023
