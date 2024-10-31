@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: About Me
-    details: Experienced in Java and frameworks like Bukkit/Spigot/Paper API, with a background in SQL, Spring Boot, and MongoDB. Fluent in English and French, passionate about collaborative work and learning new technologies.
+    details: Experienced in Java and frameworks like Bukkit/Spigot/Paper API, with a background in SQL, Spring Boot, and MongoDB. Fluent in German, English and French, passionate about collaborative work and learning new technologies.
   - title: Skills
     details: Proficient in Java, SQL, MongoDB, and frameworks like Spring Boot. Skilled in both backend and game development, particularly in building immersive Minecraft experiences.
   - title: Work
