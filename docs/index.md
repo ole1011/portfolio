@@ -8,11 +8,11 @@ hero:
   tagline: A passionate software developer from Germany
   actions:
     - theme: brand
-      text: Projects
-      link: /projects
-    - theme: brand
       text: Work
       link: /work
+    - theme: brand
+      text: Projects
+      link: /projects
     - theme: alt
       text: Contact
       link: /contact
