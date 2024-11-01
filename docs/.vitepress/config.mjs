@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Personal Portfolio",
   description: "My personal portfolio",
   lang: 'en-US',
-  head: [['link', { rel: 'icon', href: '/penguin.svg' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -37,7 +37,7 @@ export default defineConfig({
     search: {
       provider: 'local',
     },
-    logo: '/penguin.svg',
+    // logo: '/favicon.ico',
     cleanUrls: true,
   }
 })
