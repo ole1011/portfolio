@@ -32,7 +32,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Published under the MIT License',
-      copyright: 'Copyright © 2024 Ole H.'
+      copyright: 'Copyright © 2025 Ole H.'
     },
     search: {
       provider: 'local',
