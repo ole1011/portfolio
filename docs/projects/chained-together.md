@@ -30,13 +30,13 @@ This project implements a chain system designed to recreate the game 'Chained To
 
 ## Usage
 
-- **Invite a Player:**  
+- **Invite a Player:**
   Right-click a player to send an invitation. They can accept by right-clicking you back.
-- **Select Difficulty:**  
+- **Select Difficulty:**
   After acceptance, the invitor chooses a difficulty level. The selected difficulty determines the chain's length.
-- **Move Together:**  
+- **Move Together:**
   Players can pull their partner toward them using the offhand key (default: F).
-- **Disband the Chain:**  
+- **Disband the Chain:**
   Sneak and right-click your partner to break the chain.
 
 ## Screenshots

@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "ole101"
   text: "Student & Developer"
-  tagline: A passionate software developer from Germany
+  tagline: "A passionate software developer from Germany with a knack for innovative solutions and creative coding."
   actions:
     - theme: brand
       text: Work
@@ -18,11 +18,13 @@ hero:
       link: /contact
 
 features:
-  - title: About Me
-    details: Experienced in Java and frameworks like Bukkit/Spigot/Paper API, with a background in SQL, Spring Boot, and MongoDB. Fluent in German, English and French, passionate about collaborative work and learning new technologies.
-  - title: Skills
-    details: Proficient in Java, SQL, MongoDB, and frameworks like Spring Boot. Skilled in both backend and game development, particularly in building immersive Minecraft experiences.
-  - title: Work
-    details: Currently a Software Developer at Cytooxien, one of the largest German Minecraft servers. Previous roles include developer at TurnipTales and StayMC, with extensive experience in roleplay and minigame servers.
+  - icon: 👨‍💻
+    title: "About Me"
+    details: "I'm a versatile developer experienced in Java and cutting-edge frameworks like Spring Boot and Paper. With a strong foundation in MongoDB, SQL, and Spring Boot. I communicate fluently in German, English, and French. Furthermore, I thrive in collaborative environments and am always eager to learn and innovate."
+  - icon: 🛠️
+    title: "Skills"
+    details: "From Java and SQL to MongoDB and Spring Boot, my toolkit is diverse. I excel in both backend development and crafting immersive Minecraft experiences, blending technical expertise with creative problem-solving."
+  - icon: 💼
+    title: "Work"
+    details: "Currently, I contribute as a Software Developer at Cytooxien, one of Germany’s biggest Minecraft servers. My journey also includes impactful roles at TurnipTales and StayMC, where I honed my skills in roleplay and minigame server development."
 ---
-

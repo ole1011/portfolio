@@ -4,20 +4,20 @@ title: Contact
 
 # 📬 Contact
 
-I'm always open to discussing new projects, sharing ideas, or exploring opportunities. Feel free to reach out through any of the following methods:
+I'm always excited to discussing new projects, sharing ideas, or exploring opportunities. Feel free to reach out using any of the methods below:
 
 ## 📧 Email
 For project inquiries or collaboration opportunities, email me at:
 - **contact@ole101.de**
 
 ## 💬 Discord
-Connect with me on Discord for quick questions or real-time chat:
+For quick questions or a real-time chat, message me on Discord:
 - **Username:** `ole101`
 
 ## 🌐 GitHub
-Check out my projects, follow my work, or open an issue:
+Check out my projects, follow my work, or contribute by opening an issue or pull request:
 - **GitHub:** [ole1011](https://github.com/ole1011)
 
 ---
 
-If you're interested in collaborating or just want to say hi, feel free to reach out. I'll get back to you as soon as possible!
+Looking forward to hearing from you soon!

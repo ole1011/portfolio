@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Personal Portfolio",
-  description: "My personal portfolio",
+  description: "A showcase of my work and projects.",
   lang: 'en-US',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
