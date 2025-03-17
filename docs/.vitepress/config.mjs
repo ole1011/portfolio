@@ -20,7 +20,7 @@ export default defineConfig({
         items: [
           { text: 'Home', link: '/' },
           { text: 'Work', link: '/work' },
-          { text: 'Projects', link: '/projects' },
+          { text: 'Projects', collapsed: false, items: [ { text: "Overview", link: "/projects" }, { text: "i18n", link: "/projects/i18n" }, { text: "Chained Together", link: "/projects/chained-together" }, { text: "Chat Translator", link: "/projects/chat-translator" } ] },
           { text: 'Contact', link: '/contact' }
         ]
       }

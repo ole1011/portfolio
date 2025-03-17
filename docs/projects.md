@@ -2,50 +2,57 @@
 title: Projects
 ---
 
-> [!NOTE]
-> Project images will be added soon!
-
 # 🚀 Projects
 
-Explore a selection of my projects, each showcasing unique solutions and innovations for Minecraft and beyond.
+Explore a curated collection of projects that showcase innovative solutions and creative approaches to Minecraft development and beyond. Click on each project to dive into the code and learn more.
+
+> [!TIP]
+> For project showcases and detailed information, click on the details links below.
 
 ## 🌍 i18n (Internationalization Library)
 
-**GitHub:** [i18n](https://github.com/ole1011/i18n)
+**Details:** [i18n](/projects/i18n) - **GitHub:** [i18n](https://github.com/ole1011/i18n)
 
-A small internationalization (i18n) library tailored for Minecraft plugins, particularly on the Paper platform, simplifying translation management for better player experiences.
+A lightweight internationalization library crafted specifically for Minecraft plugins on the Paper platform. It streamlines translation management to enhance player experiences worldwide.
 
-- **Purpose:** Provides an easy-to-use API to add localization support to Minecraft plugins, making gameplay accessible to a global audience.
-- **Project Structure:**
-  - **API:** 📜 Manages translations with localization files.
-  - **Example Implementation:** 🔍 Demonstrates integration and usage within a plugin.
-- **Features:**
-  - 🛠 **Simple API:** For loading and retrieving translations.
-  - 🌐 **Customizable Language Files:** Supporting multiple locales.
-  - 🚀 **Optimized for Minecraft Plugins:** With simplicity and ease of integration in mind.
-- **Setup:** Available on Reposilite and compatible with Gradle or Maven, with optional relocation using the Shadow plugin.
-- **Usage:** Load translations with language files and use the API to retrieve messages as translatable components.
+- **Purpose:** Simplify localization in Minecraft plugins with an intuitive API.
+- **Structure:**
+  - **API:** 📜 Manages translations through external localization files.
+  - **Example Implementation:** 🔍 Demonstrates seamless plugin integration.
+- **Key Features:**
+  - 🛠 **Intuitive API:** Easily load and retrieve translations.
+  - 🌐 **Flexible Language Files:** Support for multiple locales.
+  - 🚀 **Minecraft-Optimized:** Designed for hassle-free integration.
+- **Setup:** Available via Reposilite and compatible with both Gradle and Maven, with optional relocation using the Shadow plugin.
+- **Usage:** Integrate language files and use the API to display translatable components.
+- **Documentation:** [i18n Library Usage Guide](/projects/i18n)
 
 ## 🔗 Chained Together
 
-**GitHub:** [Chained Together](https://github.com/ole1011/chained-together)
+**Details:** [Chained Together](/projects/chained-together) - **GitHub:** [Chained Together](https://github.com/ole1011/chained-together)
 
-A unique Minecraft plugin that adds a challenging twist: players are physically chained together, requiring teamwork and strategy to navigate obstacles.
+A unique Minecraft plugin that introduces a new level of teamwork—players are physically chained together, making cooperation and strategy essential.
 
-- **Overview:** Designed to promote cooperation, this plugin creates a unique gameplay experience where players must coordinate to succeed.
-- **Features:** 🔗 Configurable chain length, ⚙️ customizable behaviors, and 🎮 support for multiple difficulties. The plugin brings a fresh, cooperative challenge to Minecraft.
+- **Overview:** Promotes collaboration by linking players, adding a fresh cooperative twist to gameplay.
+- **Features:**
+  - 🔗 **Adjustable Chain Length:** Customize the challenge.
+  - ⚙️ **Customizable Behaviors:** Tailor settings to suit your server.
+  - 🎮 **Multi-Difficulty Support:** Adaptable for various play styles.
 - **Tech Stack:** Java, Paper API
 
 ## 🌐 Chat Translator
 
-**GitHub:** [Chat Translator](https://github.com/ole1011/chat-translator)
+**Details:** [Chat Translator](/projects/chat-translator) - **GitHub:** [Chat Translator](https://github.com/ole1011/chat-translator)
 
-A Minestom server implementation that provides real-time chat translations for players, enabling seamless communication across languages.
+Break down language barriers with this real-time chat translation plugin for Minecraft. Facilitate smooth communication among players from diverse linguistic backgrounds.
 
-- **Overview:** Built to break down language barriers on Minecraft servers, allowing players from diverse backgrounds to interact effortlessly.
-- **Features:** 🌎 Customizable language settings, 🔄 real-time translation, and 🔍 language detection to enhance social interactions.
-- **Tech Stack:** Java, DeepL API
+- **Overview:** Enables seamless interaction by translating chat messages in real-time.
+- **Features:**
+  - 🌎 **Customizable Language Settings:** Fine-tune translation preferences.
+  - 🔄 **Instant Translation:** Keep conversations flowing without interruption.
+  - 🔍 **Accurate Language Detection:** Automatically identifies and translates messages.
+- **Tech Stack:** Java, Minestom, DeepL API
 
 ---
 
-For further insights into my work or to learn more about each project, visit the repositories or reach out via the [Contact page](/contact).
+For further details on each project, visit the respective GitHub repositories or get in touch via the [Contact page](/contact).
