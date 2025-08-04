@@ -20,7 +20,7 @@ jobs:
         with:
           fetch-depth: '0'
 
-      - name: Upload source to Hetzner via SCP
+      - name: Upload source to Hetzner via SCP # TODO: migrate to proper deployment instead of raw scp/ssh
         uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.HOST }}
