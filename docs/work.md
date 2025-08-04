@@ -8,13 +8,19 @@ Welcome to a showcase of my professional journey as a software developer, where 
 
 ## 🚀 Current Role
 
+- **Role:** Independent Software Developer
+- **Overview:** Currently focused on personal projects to deepen my skills in Kotlin, backend development and development tooling. I've been optimizing my development and system administration workflows, with a strong focus on efficiency.
+
+## 💼 Past Experience
+
 ### Cytooxien
 > *One of the largest German Minecraft servers.*
 
 - **Role:** Software Developer
-- **Overview:** At Cytooxien, I develop and maintain core features that elevate the player experience. My focus is on creating custom gameplay elements that keep our active community engaged, optimizing server stability and boosting performance.
+- **Duration**: August 2024 - May 2025
+- **Overview:** At Cytooxien, I developed and maintained features that elevate the player experience. My focus was on creating custom gameplay elements that keep our active community engaged, optimizing server stability and increasing performance.
 
-## 💼 Past Experience
+--- 
 
 ### TurnipTales
 > *German Minecraft roleplay server*
@@ -25,18 +31,6 @@ Welcome to a showcase of my professional journey as a software developer, where 
     - Collaborated with a remote team to design and implement innovative features.
     - Enhanced server performance and stability for an immersive roleplay environment.
     - Developed custom solutions that elevated gameplay and increased user engagement.
-
----
-
-### StayMC
-> *German Minecraft minigame network*
-
-- **Role:** Game Developer
-- **Duration:** April 2023 – June 2024
-- **Highlights:**
-    - Designed and launched unique minigames tailored for Minecraft enthusiasts.
-    - Delivered engaging and high-quality gameplay while preserving Minecraft's core essence.
-    - Introduced fresh challenges that captivated and retained players.
 
 ---
 
